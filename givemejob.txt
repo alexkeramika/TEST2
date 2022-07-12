@@ -1,1 +1,3 @@
 mazafaga
+
+stroka1
