@@ -1,2 +1,4 @@
 <?php
-   echo "Hello, nigga";
+   session_start();
+   echo "PHPkjgskdjhgldkjhgdflkgjhfdlgkdjhlkjdhflgkjdfglkjdfl";
+
